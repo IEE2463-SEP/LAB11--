@@ -1,10 +1,11 @@
-# LAB11--
+]# LAB11--
 
  
 3. Previo al Quiz11, realizado en los primeros 10-15min de cada laboratorio, debes estudiar:
 
-* Contenidos de la [Ayudantia 10]([https://youtu.be/3dn__gzqBcg](https://youtu.be/Ua9ko6uNEl4?si=iUNnNDB3dI0dnRaF))
+* Contenidos de la [Ayudantia 10](https://youtu.be/3dn__gzqBcg)
 * Contenidos de la [Ayudantia 11](https://youtu.be/PjwAUjVRAWg)
+* Contenidos Lectura 11
 
 Las siguientes hojas de datos (solo estudiar los conceptos, y funcionamiento,  no tablas de registro ni detalles de bits). 
 
